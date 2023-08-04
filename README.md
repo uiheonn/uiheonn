@@ -1,5 +1,4 @@
-# 의헌 Uiheon Jung
-## 안녕하세요! 반갑습니다 👋
+## 의헌 Uiheon Jung 👋
 
 ### Contact
 email - ky7662@naver.com
