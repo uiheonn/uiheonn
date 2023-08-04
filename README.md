@@ -1,7 +1,8 @@
+## 의헌 Uiheon Jung
 ### 안녕하세요! 반갑습니다 👋
-### 의헌 Uiheon Jung
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-#092E20?style=flat&logo=TypeScript&logoColor=white"/>
 
 <!--
 **uiheonn/uiheonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
