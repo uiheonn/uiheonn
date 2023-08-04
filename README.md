@@ -1,4 +1,5 @@
-## 의헌 Uiheon Jung 👋
+## 의헌 Uiheon Jung 🐋![WhaleUnderwaterGIF (2)](https://github.com/uiheonn/uiheonn/assets/108711488/b414e3c5-f323-432b-b58c-31d902dc9ab5)
+
 
 ### Contact
 email - ky7662@naver.com
