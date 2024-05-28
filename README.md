@@ -7,7 +7,8 @@
 안녕하세요 ✋ inu 개발자 정의헌 입니다  <br>
 welcome to my github!  
 </div>
-![modong](https://github.com/uiheonn/uiheonn/assets/108711488/7c709146-bb63-4344-bdd3-4540d51e0a0e)
+<img src="https://github.com/uiheonn/uiheonn/assets/108711488/7c709146-bb63-4344-bdd3-4540d51e0a">
+<img src="![modong](https://github.com/uiheonn/uiheonn/assets/108711488/7c709146-bb63-4344-bdd3-4540d51e0a0e)">
 <div align="center">
   <h3>
     🍀 My Stack 🍀
