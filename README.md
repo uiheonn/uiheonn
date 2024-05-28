@@ -11,7 +11,6 @@
 <div align="center">
   <img src="https://github.com/uiheonn/uiheonn/assets/108711488/e13c3b21-5aec-42a2-8df7-0510f1550b0a" style="width: 500px; height: auto;">
 </div>
-<br>
 <div align="center">
   <h3>
     🍀 My Stack 🍀
