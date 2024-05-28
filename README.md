@@ -8,7 +8,6 @@
 welcome to my github!  
 </div>
 <img src="https://github.com/uiheonn/uiheonn/assets/108711488/7c709146-bb63-4344-bdd3-4540d51e0a">
-<img src="![modong](https://github.com/uiheonn/uiheonn/assets/108711488/7c709146-bb63-4344-bdd3-4540d51e0a0e)">
 <div align="center">
   <h3>
     🍀 My Stack 🍀
