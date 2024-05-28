@@ -1,9 +1,8 @@
-
-## 의헌 Uiheon Jung 🐋  
-<h2>
-  의헌 Uiheon Jung 🐋  
-</h2>
-
+<div align="center">
+  <h2>
+    의헌 Uiheon Jung 🐋  
+  </h2>
+</div>
 <div align="center">
 안녕하세요 ✋ inu 개발자 정의헌 입니다  
 welcome to my github!  
