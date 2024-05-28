@@ -4,7 +4,7 @@
   </h2>
 </div>
 <div align="center">
-안녕하세요 ✋ inu 개발자 정의헌 입니다  
+안녕하세요 ✋ inu 개발자 정의헌 입니다  <br>
 welcome to my github!  
 </div>
 <br>
@@ -18,7 +18,7 @@ welcome to my github!
 </div>
 <div align="center">
   <h3>
-    Notion
+    My Notion
   </h3>
 </div>
 <div align="center">
