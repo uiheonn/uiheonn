@@ -4,10 +4,14 @@
   </h2>
 </div>
 <div align="center">
-안녕하세요 ✋ inu 개발자 정의헌 입니다  <br>
-welcome to my github!  
+  안녕하세요 ✋ inu 개발자 정의헌 입니다  <br>
+  welcome to my github!
 </div>
-<img src="https://github.com/uiheonn/uiheonn/assets/108711488/e13c3b21-5aec-42a2-8df7-0510f1550b0a">
+<br>
+<div align="center">
+  <img src="https://github.com/uiheonn/uiheonn/assets/108711488/e13c3b21-5aec-42a2-8df7-0510f1550b0a">
+</div>
+<br>
 <div align="center">
   <h3>
     🍀 My Stack 🍀
