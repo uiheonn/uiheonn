@@ -24,6 +24,11 @@ welcome to my github!
 <div align="center">
   https://polar-appeal-f29.notion.site/23764fdcea094427b5e3865574a7a9f5?pvs=4
 </div>
-
-### Contact
-ky7662@naver.com
+<div align="center">
+  <h3>
+    Contact
+  </h3>
+</div>
+<div align="center">
+  ky7662@naver.com
+</div>
