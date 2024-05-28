@@ -10,7 +10,7 @@ welcome to my github!
 <br>
 <div align="center">
   <h3>
-    My Stack
+    🍀 My Stack 🍀
   </h3>
 </div>
 <div align="center">
@@ -18,7 +18,7 @@ welcome to my github!
 </div>
 <div align="center">
   <h3>
-    My cowork tool
+    🍀 My cowork tool 🍀
   </h3>
 </div>
 <div align="center">
@@ -26,7 +26,7 @@ welcome to my github!
 </div>
 <div align="center">
   <h3>
-    My Notion
+    🍀 My Notion 🍀
   </h3>
 </div>
 <div align="center">
