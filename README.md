@@ -18,6 +18,14 @@ welcome to my github!
 </div>
 <div align="center">
   <h3>
+    My cowork tool
+  </h3>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+</div>
+<div align="center">
+  <h3>
     My Notion
   </h3>
 </div>
