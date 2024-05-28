@@ -18,7 +18,7 @@ welcome to my github!
 </div>
 <div align="center">
   <h3>
-    🍀 My cowork tool 🍀
+    🍀 My Cowork Tool 🍀
   </h3>
 </div>
 <div align="center">
