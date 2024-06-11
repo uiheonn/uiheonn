@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/uiheonn/uiheonn/assets/108711488/e13c3b21-5aec-42a2-8df7-0510f1550b0a" style="width: 400px; height: auto;">
+  <img src="https://github.com/uiheonn/uiheonn/assets/108711488/e13c3b21-5aec-42a2-8df7-0510f1550b0a" style="width: 350px; height: auto; border-radius: 10px">
 </div>
 <div align="center">
   <h3>
