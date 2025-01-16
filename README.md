@@ -34,7 +34,7 @@
   <h2>
     Algorithm
   </h2>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ky7662)](https://solved.ac/ky7662)<br/>
+  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ky7662)
 </div>
 <div>
   <h2>
