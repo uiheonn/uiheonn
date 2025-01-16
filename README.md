@@ -1,9 +1,9 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ky7662)](https://solved.ac/ky7662/)
 <h1>
   JUNG EUI HEON 🐋  
 </h1>
 안녕하세요 ✋ 백엔드 개발자 정의헌 입니다  <br>
 welcome to my github!
+<br>
 <br>
 <h2>
   My Skills 💪
@@ -22,6 +22,13 @@ welcome to my github!
 </div>
 <br>
 <h2>
+  Solved.ac 👊
+</h2>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ky7662)](https://solved.ac/ky7662/)
+<br>
+<h2>
   My Notion 🍀
 </h3>
 https://polar-appeal-f29.notion.site/23764fdcea094427b5e3865574a7a9f5?pvs=4
+
