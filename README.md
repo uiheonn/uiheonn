@@ -44,3 +44,4 @@
 <div>
   https://polar-appeal-f29.notion.site/23764fdcea094427b5e3865574a7a9f5?pvs=4
 </div>
+[![ky7662's solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ky7662)](https://solved.ac/profile/ky7662)
