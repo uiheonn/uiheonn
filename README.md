@@ -1,3 +1,4 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ky7662)](https://solved.ac/ky7662/)
 <div>
   <h1>
     JUNG EUI HEON 🐋  
