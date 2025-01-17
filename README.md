@@ -6,7 +6,7 @@ welcome to my github!
 <br>
 <br>
 <h2>
-  My Skills 💪
+  My Skills 🛠️
 </h2>
 <h3>
   Frameworks & Languages
